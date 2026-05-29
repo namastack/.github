@@ -17,18 +17,6 @@
     ·
     <a href="https://github.com/sponsors/namastack">Sponsor</a>
   </p>
-
-  <p>
-    <a href="https://github.com/namastack/namastack-outbox/actions/workflows/gradle-test.yml">
-      <img src="https://github.com/namastack/namastack-outbox/actions/workflows/gradle-test.yml/badge.svg" alt="Namastack Outbox CI" />
-    </a>
-    <a href="https://javadoc.io/doc/io.namastack/namastack-outbox-core">
-      <img src="https://javadoc.io/badge2/io.namastack/namastack-outbox-core/javadoc.svg" alt="Javadoc" />
-    </a>
-    <a href="https://opensource.org/licenses/Apache-2.0">
-      <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="Apache 2.0 License" />
-    </a>
-  </p>
 </div>
 
 ---
@@ -49,10 +37,6 @@ Our first major project is **Namastack Outbox**, a transactional outbox engine t
   <tr>
     <td><strong><a href="https://www.namastack.io/outbox">Documentation</a></strong></td>
     <td>Guides, configuration reference, database setup, messaging integrations, observability, and examples.</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/namastack/namastack-web">Website</a></strong></td>
-    <td>The Namastack website and project landing page.</td>
   </tr>
 </table>
 
