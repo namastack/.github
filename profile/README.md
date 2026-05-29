@@ -65,6 +65,26 @@ Core areas include:
 - Kafka, RabbitMQ, and AWS SNS integrations
 - Micrometer metrics, tracing, and Actuator support
 
+## Sponsoring
+
+Namastack Outbox is open source and takes time to maintain, document, test, and evolve. Sponsorship helps keep that work sustainable.
+
+Sponsor support goes directly toward:
+
+- Improving documentation and examples
+- Building new integrations and Spring ecosystem support
+- Maintaining long-term compatibility and stability
+- Investing in observability, operations, and production readiness
+- Keeping the project actively maintained for the community
+
+If Namastack Outbox helps your team build more reliable systems, consider supporting the project through GitHub Sponsors:
+
+<p>
+  <a href="https://github.com/sponsors/namastack">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github" alt="Sponsor Namastack on GitHub" />
+  </a>
+</p>
+
 ## Get Involved
 
 - Read the docs: <https://www.namastack.io/outbox>
